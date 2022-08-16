@@ -1,4 +1,4 @@
-# Projeto 1 – Banco Relacional, Python e SQL para Análise de Dados
+# Projeto 3 – Análise e Limpeza de Dados de Telecomunicações
 
 Neste projeto serão aplicadas três principais estratégias de limpeza de dados de uma empresa de telecomunicações.
 
