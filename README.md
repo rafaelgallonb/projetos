@@ -3,49 +3,49 @@ A seguir você encontrará todos os projetos que eu executei com a instrução d
 
 A formação é composta de três principais bases: Análise de dados com SQL, Python e com Microsoft Power BI.
 
-## [Projeto I: Banco Relacional, Python e SQL para Análise de Dados - PIMA Indians Diabetes](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto1)
+### [Projeto 1: Banco Relacional, Python e SQL para Análise de Dados - PIMA Indians Diabetes](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto1)
+O objetivo deste primeiro projeto foi aprender a usar a linguagem SQL dentro do Jupyter Notebook, e assim criar um ambiente de análise poderoso com Banco de Dados Relacional, Python e SQL.
+
+### [Projeto 2: Análise de Dados RH - HR Analytics Job Chance of DS](link)
 
 
-## [Projeto II: Análise de Dados RH - HR Analytics Job Chance of DS](link)
+### [Projeto 3: Análise e Limpeza de Dados - Telco Customer Churn](link)
 
 
-## [Projeto III: Análise e Limpeza de Dados - Telco Customer Churn](link)
+### [Projeto 4: Análise de Dados Campanha de Marketing Instituição Financeira - Bank Marketing](link)
 
 
-## [Projeto IV: Análise de Dados Campanha de Marketing Instituição Financeira - Bank Marketing](link)
+### [Projeto 5: Análise de Dados para traçar Estratégias de Crescimento e Retenção da Base de Clientes - Fake Data](link)
 
 
-## [Projeto V: Análise de Dados para traçar Estratégias de Crescimento e Retenção da Base de Clientes - Fake Data](link)
+### [Projeto 6: Market Basket Analysis](link)
 
 
-## [Projeto VI: Market Basket Analysis](link)
+### [Projeto 7: Web Data Analytics - MyAnimeList](link)
 
 
-## [Projeto VII: Web Data Analytics - MyAnimeList](link)
+### [Projeto 8: Engenharia de Atributos em Dados Médicos](link)
 
 
-## [Projeto VIII: Engenharia de Atributos em Dados Médicos](link)
+### [Projeto 9: Pré-Processamento de Dados de Texto Extraídos de Data Lake](link)
 
 
-## [Projeto IX: Análise de Dados de Inspeções Sanitárias em Navios de Cruzeiros](link)
+### [Projeto 10: Design e Construção de 50 Visualizações](link)
 
 
-## [Projeto X: Limpeza e Transformação de Dados de Câncer de Mama](link)
+### [Projeto 11: Desafio de Análise - Olímpiadas de Tokyo 2020](link)
 
 
-## [Projeto XI: Desafio de Análise - Olímpiadas de Tokyo 2020](link)
+### [Projeto 12: Análise Brazilian Delivery Center](link)
 
 
-## [Projeto XII: Análise Brazilian Delivery Center](link)
+### [Projeto 13: Análise de Dados de Série Temporal - Capital Bikeshare](link)
 
 
-## [Projeto XIII: Análise de Dados de Série Temporal - Capital Bikeshare](link)
+### [Projeto 14: Análise Exploratória de Dados - COVID19](link)
 
 
-## [Projeto XIV: Análise Exploratória de Dados - COVID19](link)
+### [Projeto 15: Limpeza e Processamento](link)
 
 
-## [Projeto XV: Limpeza e Processamento](link)
-
-
-## [Projeto XVI: Análise de Dados - Global Air Quality](link)
+### [Projeto 16: Análise de Dados - Global Air Quality](link)
