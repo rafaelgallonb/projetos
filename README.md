@@ -3,7 +3,7 @@ A seguir você encontrará todos os projetos que eu executei com a instrução d
 
 A formação é composta de três principais bases: Análise de dados com SQL, Python e com Microsoft Power BI.
 
-## [Projeto I: Banco Relacional, Python e SQL para Análise de Dados - PIMA Indians Diabetes](link)
+## [Projeto I: Banco Relacional, Python e SQL para Análise de Dados - PIMA Indians Diabetes](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto1)
 
 
 ## [Projeto II: Análise de Dados RH - HR Analytics Job Chance of DS](link)
