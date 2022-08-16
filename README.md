@@ -6,8 +6,8 @@ A formação é composta de três principais bases: Análise de dados com SQL, P
 ### [Projeto 1: Banco Relacional, Python e SQL para Análise de Dados - PIMA Indians Diabetes](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto1)
 O objetivo deste primeiro projeto foi aprender a usar a linguagem SQL dentro do Jupyter Notebook, e assim criar um ambiente de análise poderoso com Banco de Dados Relacional, Python e SQL.
 
-### [Projeto 2: Análise de Dados RH - HR Analytics Job Chance of DS](link)
-
+### [Projeto 2: Análise de Dados RH - HR Analytics Job Chance of DS](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto2)
+Neste projeto foi feito uma sequência completa de análise descritiva, diagnóstica e estatística de dados de Recursos Humanos (RH).
 
 ### [Projeto 3: Análise e Limpeza de Dados - Telco Customer Churn](link)
 
