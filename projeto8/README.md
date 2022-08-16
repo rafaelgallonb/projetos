@@ -16,4 +16,10 @@ Nos Estados Unidos sozinho, o tratamento de paciente diabéticos readmitidos exc
 
 A readmissão hospitalar é uma das principais preocupações no tratamento do diabetes, com milhões de dólares sendo gastos no tratamento de pacientes diabéticos que precisam ser readmitidos em um hospital após receberem alta.
 
+A necessidade de readmissão indica que cuidados inadequados foram fornecidos ao paciente no momento da primeira admissão. A taxa de readmissão se tornou uma métrica importante para medir a qualidade geral de um hospital.
+
+Como Analista de Dados da organização (Hospital, clínica ou operadora de plano de saúde), o trabalho é identificar os pacientes diabéticos de alto risco por meio de estratificação de risco de registros médicos eletrônicos. Serão usados registro eletrônicos de dados médicos, como resultados dos exames, nível de insulina, diagnóstico de outras doenças etc.
+
+Será necessário um extenso trabalho de engenharia de atributos e várias técnicas serão utilizadas. Todas as escolhas foram justificadas durante o desenvolvimento do projeto e a entrega do resultado da análise através de diversos gráficos.
+
 ## Resultado
