@@ -1,6 +1,3 @@
-# Solução exercício 4
-
-
 # Verificando o total de registros
 SELECT COUNT(*) FROM exec4.hubs;
 SELECT COUNT(*) FROM exec4.channels;
