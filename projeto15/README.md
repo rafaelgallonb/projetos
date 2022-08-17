@@ -1,1 +1,1 @@
-# Projeto 15: Análise de Dados Seérie Temporal - Capital Bikeshare
+# Projeto 15: Análise de Dados Série Temporal - Capital Bikeshare
