@@ -36,8 +36,8 @@ Este projeto tem como objetivo principal não resolver um problema de negócio, 
 ### [Projeto 11: Análise com SQL de Inspeções Sanitárias em Navios de Cruzeiro](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto11)
 O objetivo foi compreender algumas características dos dados como os navios com pior classificação de risco, os navios com índices de conformidade mais alto, os navios com alta pontuação de risco, entre outros detalhes.
 
-### [Projeto 12: Análise Brazilian Delivery Center](link)
-
+### [Projeto 12: Usando SQL para Limpeza e Transformação de Dados de Câncer de Mama](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto12)
+O objetivo é limpar e transformar os dados através de categorização, codificação e Binarização e então gerar um novo dataset que poderá ser usado mais a frente por outros profissionais da equipe de dados.
 
 ### [Projeto 13: Análise de Dados de Série Temporal - Capital Bikeshare](link)
 
