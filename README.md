@@ -33,8 +33,8 @@ No projeto foi executado atividades de pré-processamento de dados de texto extr
 ### [Projeto 10: Design e Construção de 50 Visualizações](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto10)
 Este projeto tem como objetivo principal não resolver um problema de negócio, mas sim construir 50 visualizações para uso como referência em futuros trabalhos de análise de dados. São diversos mini-projetos, 8 datasets diferentes, incluindo extração de dados da web, para criação de 50 visualizações.
 
-### [Projeto 11: Desafio de Análise - Olímpiadas de Tokyo 2020](link)
-
+### [Projeto 11: Análise com SQL de Inspeções Sanitárias em Navios de Cruzeiro](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto11)
+O objetivo foi compreender algumas características dos dados como os navios com pior classificação de risco, os navios com índices de conformidade mais alto, os navios com alta pontuação de risco, entre outros detalhes.
 
 ### [Projeto 12: Análise Brazilian Delivery Center](link)
 
