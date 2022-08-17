@@ -39,8 +39,8 @@ O objetivo foi compreender algumas características dos dados como os navios com
 ### [Projeto 12: Usando SQL para Limpeza e Transformação de Dados de Câncer de Mama](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto12)
 O objetivo é limpar e transformar os dados através de categorização, codificação e Binarização e então gerar um novo dataset que poderá ser usado mais a frente por outros profissionais da equipe de dados.
 
-### [Projeto 13: Análise de Dados de Série Temporal - Capital Bikeshare](link)
-
+### [Projeto 13: Análise em SQL Olímpiadas de Tokyo 2020](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto13)
+O objetivo deste projeto em específico é mostrar que nem sempre é possível responder a todas as perguntas da área de negócios, e que isso faz parte do processo de análise de dados.
 
 ### [Projeto 14: Análise Exploratória de Dados - COVID19](link)
 
