@@ -42,10 +42,16 @@ O objetivo é limpar e transformar os dados através de categorização, codific
 ### [Projeto 13: Análise em SQL Olímpiadas de Tokyo 2020](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto13)
 O objetivo deste projeto em específico é mostrar que nem sempre é possível responder a todas as perguntas da área de negócios, e que isso faz parte do processo de análise de dados.
 
-### [Projeto 14: Análise Exploratória de Dados - COVID19](link)
+### [Projeto 14: Análise Brazilian Delivery Center](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto14)
 
 
-### [Projeto 15: Limpeza e Processamento](link)
+### [Projeto 15: Análise de Dados Seérie Temporal - Capital Bikeshare](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto15)
 
 
-### [Projeto 16: Análise de Dados - Global Air Quality](link)
+### [Projeto 16: Análise Exploratória de Dados COVID-19](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto16)
+
+
+### [Projeto 17: Laboratório de Limpeza e Processamento de Dados (Diversos)](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto17)
+
+
+### [Projeto 18: Análise de Dados da Global Air Quality](https://github.com/rafaelgallonb/projetos-fada/tree/main/projeto18)
